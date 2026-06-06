@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dopamaru.aternos.me",
-    "port": 58881,
+    "ip": "dopamarus2.joinmc.world",
+    "port": 13677,
     "version": "1.20.1",
     "try-creative": false
   },
