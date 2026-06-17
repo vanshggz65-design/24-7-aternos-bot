@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dopamarus2.joinmc.world",
-    "port": 13677,
+    "ip": "p1.wammuhost.com",
+    "port": 26217,
     "version": "1.20.1",
     "try-creative": false
   },
