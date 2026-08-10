@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "delhi-8078.indernos.in",
-    "port": ,
+    "ip": "dopamarus3.joinmc.world",
+    "port": 11518, 
     "version": "1.20.1",
     "try-creative": false
   },
